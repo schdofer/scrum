@@ -7,3 +7,4 @@
 
 ### Tópicos sobre SCRUM
 - [Conceitos básicos](./conceitos-basicos.md)
+- [Papeis e Responsabilidades](./papeis-e-responsabilidades.md)
