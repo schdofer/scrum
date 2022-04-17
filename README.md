@@ -9,3 +9,4 @@
 - [Conceitos básicos](./conceitos-basicos.md)
 - [Papeis e Responsabilidades](./papeis-e-responsabilidades.md)
 - [Introdução ao Scrum](./introducao-scrum.md)
+- [Papeis e responsabilidades no Scrum](./papeis-e-responsabilidades.md)
