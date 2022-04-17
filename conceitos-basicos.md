@@ -1,10 +1,10 @@
 # Conceitos Básicos
-O desenvolvimento de software é uma atividaded complexa e portanto ao longo dos anos foram criados processos para sua execução.
+O desenvolvimento de software é uma atividade complexa e portanto ao longo dos anos foram criados processos para sua execução.
 <br /><br />
 
 ### Processo tradicional (watherfall)
 ----
-É composto das seguintes fases;
+É composto das seguintes fases:
 - Concepção
 - Análise e design
 - Desenvolvimento
@@ -52,5 +52,5 @@ No projeto ágil, você corre o risco de descobrir que estava errado em no máxi
 3. Equipe comprometida com os objetivos
 4. Maior valor para o cliente
 <br /><br />
-Resumindo: <br />
+*Resumindo:* <br />
 "Ter capacidade de responder rapidamente a mudanças"
