@@ -11,3 +11,4 @@
 - [Introdução ao Scrum](./introducao-scrum.md)
 - [Papeis e responsabilidades no Scrum](./papeis-e-responsabilidades.md)
 - [Cerimônias do Scrum](./cerimonias-do-scrum.md)
+- [Como escrever histórias](./como-escrever-historias.md)
