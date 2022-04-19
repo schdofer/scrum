@@ -33,7 +33,7 @@ O PO é o responsável por appresentar as histórias ao Time DEV, detalhar as ne
 O Time DEV avalia e se necessário quebra as histórias em outras, ajudando na reescrita se preciso. <br />
 É nesta fase que devem ser estimadas o tamanho e complexidade de cada história e/ou tarefa para ver se tudo que é preciso desenvolver caberá dentro do Sprint. <br />
 São utilizadas ferramentas como "Planning Poker" para estimar. <br />
-Time-BOX de um "Spriint Planning" pode variar de acordo com tamanho do Sprint, mas para um Spriint de 30 dias costuma ser de 8 horas (4 primeiras horas deve-se responder "O que fazer" e nas 4 finais deve-se responder "Como fazer") <br />
+Time-BOX de um "Sprint Planning" pode variar de acordo com tamanho do Sprint, mas para um Spriint de 30 dias costuma ser de 8 horas (4 primeiras horas deve-se responder "O que fazer" e nas 4 finais deve-se responder "Como fazer") <br />
 Devem participar o PO, Time DEV e SM.
 <br /><br />
 

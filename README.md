@@ -7,8 +7,8 @@
 
 ### Tópicos sobre SCRUM
 - [Conceitos básicos](./conceitos-basicos.md)
-- [Papeis e Responsabilidades](./papeis-e-responsabilidades.md)
 - [Introdução ao Scrum](./introducao-scrum.md)
 - [Papeis e responsabilidades no Scrum](./papeis-e-responsabilidades.md)
 - [Cerimônias do Scrum](./cerimonias-do-scrum.md)
-- [Como escrever histórias](./como-escrever-historias.md)
+- [Como planejar um Sprint ?](./planejamento-do-sprint.md)
+- [Como escrever histórias ?](./como-escrever-historias.md)
