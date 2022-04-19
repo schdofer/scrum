@@ -23,10 +23,10 @@ Para planejar um Sprint, é importante dividi-lo em 2 etapas.
 ### Time-Box
 ----
 Time-BOX de um "Sprint Planning" pode variar de acordo com tamanho do Sprint. <br />
-Por exemplo, mas para um Spriint de 30 dias costuma ser:
-    - Tima-Box total: 8 horas
-    - Nas 4 primeiras horas o PO deve responder "O que fazer"
-    - Nas 4 finais o Time DEV deve responder "Como fazer" (recomendável a não participação do PO)
+Por exemplo, para um Sprint de 30 dias costuma ser:
+- Tima-Box total: 8 horas
+- Nas 4 primeiras horas o PO deve responder "O que fazer"
+- Nas 4 finais o Time DEV deve responder "Como fazer" (recomendável a não participação do PO)
 <br /><br />
 
 ### Quem participa ?
