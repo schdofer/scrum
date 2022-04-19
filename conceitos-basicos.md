@@ -53,4 +53,5 @@ No projeto ágil, você corre o risco de descobrir que estava errado em no máxi
 4. Maior valor para o cliente
 <br /><br />
 *Resumindo:* <br />
-"Ter capacidade de responder rapidamente a mudanças"
+"Ter capacidade de responder rapidamente a mudanças" <br />
+"Ser ágil é errar rápido e corrigir rápido"
