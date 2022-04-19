@@ -133,6 +133,13 @@ Os riscos podem ser positivos ou negativos. <br />
     - Itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que possa acabar inviabilizando-o.
 <br /><br />
 
+### KPI - Key Performance Indicator
+
+----
+São os indicadores ou valores quantitativos que podem ser medidos, comparados e acompanhados, de forma a expor o desempenho dos processos e do trabalho nas estratégias de um negócio. <br />
+Definem quais objetivos/valor precisam ser atingidos.
+<br /><br />
+
 ### Stakeholder
 
 ----
