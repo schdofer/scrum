@@ -33,6 +33,6 @@ Atua fortemente até que o time seja auto-gerenciável.
 
 ### Time de Desenvolvimento (DEV)
 ----
-Possui habilidades para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.<br />
+Possui habilidades para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando. <br />
 É o responsável pela execução em si do produto de software a ser entregue.
 <br /><br />
